@@ -3,3 +3,5 @@ venv/
 .ipynb_checkpoints/
 my_logs/
 models/
+data/
+hdf5
