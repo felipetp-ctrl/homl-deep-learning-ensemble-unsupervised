@@ -5,3 +5,6 @@ my_logs/
 models/
 data/
 hdf5
+common-task-2.ipynb
+qg_graph_dataset.pt
+quark-gluon_data-set_n139306.hdf5
